@@ -5,7 +5,7 @@ Step 1: Install Laravel 11
 Step 2: Create Auth with Jetstream Livewire
 Step 3: Create Migration and Model
 Step 4: Create Post Component
-Step 5: Update Component File
+Step 5: Update Component File 
 Step 6: Update Blade Files
 Step 7: Config Template Layout
 Step 8: Add Route
