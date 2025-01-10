@@ -1,6 +1,4 @@
-# Livewire-Laravel
-
-**Laravel 11 Livewire CRUD with Modal Tailwind CSS**
+# Laravel 11 Livewire CRUD with Modal Tailwind CSS
 Build an Laravel 11 Livewire CRUD with Modal Tailwind CSS Step by Step example. you have to simply follow the below steps:
 
 Step 1: Install Laravel 11
